@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./README.md"><img alt="English" src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge"></a>
+  <a href="./README.zh-CN.md"><img alt="简体中文" src="https://img.shields.io/badge/lang-简体中文-lightgrey?style=for-the-badge"></a>
+</p>
+
 # Yesterly
 
 **Focus on your work—recap from what you actually did.**
@@ -142,7 +147,7 @@ Use in-app support or [Issues](https://github.com/shjiyue/Yesterly/issues). Incl
 
 ## About this repository
 
-- **README**: product overview and download links.
+- **README**: product overview and download links ([English](./README.md) · [简体中文](./README.zh-CN.md)).
 - **Releases**: installers, notes, and SHA-256 checksums.
 - **Issues**: feedback and questions.
 
