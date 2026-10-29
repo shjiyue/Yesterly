@@ -13,7 +13,7 @@ Yesterly 是面向 macOS 与 Windows 的 AI 工作记录与报告工具（英文
 
 > 本仓库是 Yesterly 的官方版本发布仓库，用于提供安装包、版本说明与使用介绍，**不包含产品源代码**。
 
-[产品官网](https://jijianribao.qitingai.com) · [下载最新版本](https://github.com/shjiyue/Yesterly/releases/latest) · [全部版本](https://github.com/shjiyue/Yesterly/releases) · [订阅说明](https://jijianribao.qitingai.com/zh/pricing) · [隐私说明](https://jijianribao.qitingai.com/zh/privacy)
+[产品官网](https://www.getyesterly.com) · [下载最新版本](https://github.com/shjiyue/Yesterly/releases/latest) · [全部版本](https://github.com/shjiyue/Yesterly/releases) · [订阅说明](https://www.getyesterly.com/zh/pricing) · [隐私说明](https://www.getyesterly.com/zh/privacy)
 
 ## 下载与安装
 
@@ -120,7 +120,7 @@ AI 生成内容应在使用前核对，尤其是完成状态、数字、结果�
 
 登录同一账号不会自动同步另一台设备的工作记录。更换设备前请先完成备份。删除本地记录，也不会撤回已经发送给第三方模型或网页的材料，或自动删除已导出的文件和备份。
 
-完整说明见[官网隐私说明](https://jijianribao.qitingai.com/zh/privacy)和客户端「隐私说明」。
+完整说明见[官网隐私说明](https://www.getyesterly.com/zh/privacy)和客户端「隐私说明」。
 
 ## 常见问题
 
