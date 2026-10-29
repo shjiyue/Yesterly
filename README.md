@@ -13,7 +13,7 @@ The product does two things: **capture your work** and **turn entries into recap
 
 > This repository is the **official release channel** for Yesterly installers, release notes, and product help. It does **not** contain product source code.
 
-[Product site](https://jijianribao.qitingai.com) · [Download latest](https://github.com/shjiyue/Yesterly/releases/latest) · [All releases](https://github.com/shjiyue/Yesterly/releases) · [Plans & pricing](https://jijianribao.qitingai.com/pricing) · [Privacy](https://jijianribao.qitingai.com/privacy)
+[Product site](https://www.getyesterly.com) · [Download latest](https://github.com/shjiyue/Yesterly/releases/latest) · [All releases](https://github.com/shjiyue/Yesterly/releases) · [Plans & pricing](https://www.getyesterly.com/pricing) · [Privacy](https://www.getyesterly.com/privacy)
 
 ## Download & install
 
@@ -111,7 +111,7 @@ The app tries to start capturing on launch after sign-in, entitlements, models, 
 | DeepSeek web flow | Attachments + prompts in DeepSeek web sessions |
 | Account & billing | Sign-in, device auth, plans, orders, usage metadata in the cloud |
 
-Local storage ≠ fully offline: cloud models receive your material; Yesterly does not proxy model traffic. See [Privacy on the site](https://jijianribao.qitingai.com/privacy) and in-app **Privacy**.
+Local storage ≠ fully offline: cloud models receive your material; Yesterly does not proxy model traffic. See [Privacy on the site](https://www.getyesterly.com/privacy) and in-app **Privacy**.
 
 Signing in on another device does not sync an existing timeline—back up before switching machines.
 
