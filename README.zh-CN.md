@@ -17,13 +17,13 @@ Yesterly 是面向 macOS 与 Windows 的 AI 工作记录与报告工具（英文
 
 ## 下载与安装
 
-当前发布版本：**v0.1.5**。
+当前发布版本：**v0.1.6**。
 
 | 系统与架构 | 适用设备 | 安装包 |
 | --- | --- | --- |
-| macOS Apple Silicon / ARM64 | 搭载 Apple M 系列芯片的 Mac | [下载 DMG](https://github.com/shjiyue/Yesterly/releases/download/v0.1.5/yesterly-0.1.5-mac-arm64.dmg) |
-| macOS Intel / x64 | 搭载 Intel 处理器的 Mac | [下载 DMG](https://github.com/shjiyue/Yesterly/releases/download/v0.1.5/yesterly-0.1.5-mac-x64.dmg) |
-| Windows x64 | 64 位 x64 Windows 电脑 | [下载 EXE](https://github.com/shjiyue/Yesterly/releases/download/v0.1.5/yesterly-0.1.5-win-x64-setup.exe) |
+| macOS Apple Silicon / ARM64 | 搭载 Apple M 系列芯片的 Mac | [下载 DMG](https://github.com/shjiyue/Yesterly/releases/download/v0.1.6/yesterly-0.1.6-mac-arm64.dmg) |
+| macOS Intel / x64 | 搭载 Intel 处理器的 Mac | [下载 DMG](https://github.com/shjiyue/Yesterly/releases/download/v0.1.6/yesterly-0.1.6-mac-x64.dmg) |
+| Windows x64 | 64 位 x64 Windows 电脑 | [下载 EXE](https://github.com/shjiyue/Yesterly/releases/download/v0.1.6/yesterly-0.1.6-win-x64-setup.exe) |
 
 不确定 Mac 芯片类型时，打开苹果菜单 →「关于本机」，查看「芯片」或「处理器」。请按照实际设备选择安装包。
 
