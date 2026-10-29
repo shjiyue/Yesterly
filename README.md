@@ -17,13 +17,13 @@ The product does two things: **capture your work** and **turn entries into recap
 
 ## Download & install
 
-Current release: **v0.1.5**.
+Current release: **v0.1.6**.
 
 | Platform | Device | Installer |
 | --- | --- | --- |
-| macOS Apple Silicon / ARM64 | Mac with Apple M series | [Download DMG](https://github.com/shjiyue/Yesterly/releases/download/v0.1.5/yesterly-0.1.5-mac-arm64.dmg) |
-| macOS Intel / x64 | Mac with Intel CPU | [Download DMG](https://github.com/shjiyue/Yesterly/releases/download/v0.1.5/yesterly-0.1.5-mac-x64.dmg) |
-| Windows x64 | 64-bit Windows PC | [Download EXE](https://github.com/shjiyue/Yesterly/releases/download/v0.1.5/yesterly-0.1.5-win-x64-setup.exe) |
+| macOS Apple Silicon / ARM64 | Mac with Apple M series | [Download DMG](https://github.com/shjiyue/Yesterly/releases/download/v0.1.6/yesterly-0.1.6-mac-arm64.dmg) |
+| macOS Intel / x64 | Mac with Intel CPU | [Download DMG](https://github.com/shjiyue/Yesterly/releases/download/v0.1.6/yesterly-0.1.6-mac-x64.dmg) |
+| Windows x64 | 64-bit Windows PC | [Download EXE](https://github.com/shjiyue/Yesterly/releases/download/v0.1.6/yesterly-0.1.6-win-x64-setup.exe) |
 
 Not sure which Mac chip you have? Apple menu → **About This Mac** → **Chip** or **Processor**. Pick the matching installer.
 
