@@ -17,7 +17,7 @@ The product does two things: **capture your work** and **turn entries into recap
 
 ## Download & install
 
-Current release: **v0.1.7**..
+Current release: **v0.1.7**.
 
 | Platform | Device | Installer |
 | --- | --- | --- |
